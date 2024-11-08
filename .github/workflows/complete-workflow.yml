@@ -4,7 +4,7 @@ on: push
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Run unit tests and SAST scan on the source code 
+    name: Run unit tests and SAST scan on the source code with Sonar cloud
     steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 17
