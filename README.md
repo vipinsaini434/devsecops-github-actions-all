@@ -1,4 +1,4 @@
-# Java Reachability Playground Modified by ASecurityGuru for End to End Java DevSecOps Project Case Study
+# Java Reachability Playground Modified by Vipin from AsecurityGroup for End to End Java DevSecOps Project Case Study using Sonar Cloud/Snyk and Owasp Zap.
 
 # Updated on 11th June, 2022 - Added SonarCloud Code Coverage Changes
 
